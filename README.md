@@ -117,7 +117,7 @@ The project uses a MySQL database exported as `registry.db`. The database schema
 
 ## Database Export
 
-The MySQL database (`registry.db`) is included in the repository for convenience. You can find it in the `database` directory.
+The MySQL database (`registry.db`) is included in the repository for convenience.
 
 ### Exporting the Database
 
